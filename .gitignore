@@ -1,0 +1,7 @@
+*.py[cod]
+.ipynb_checkpoints
+onnx
+onnxq
+model
+past_key_values.npy
+
